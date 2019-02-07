@@ -20,7 +20,7 @@ public class JavaIF {
         // TODO code application logic here
          Scanner comienzo = new Scanner (System.in);
         System.out.println();
-        // Hola Mundo
+        // Hola Mundo, PURO CDS
     }
     
 }
